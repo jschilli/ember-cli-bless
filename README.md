@@ -1,4 +1,4 @@
-# Ember-cli-bless
+# Ember-cli-bless [![Build Status][travis-badge]][travis-badge-url]
 
 Blesses css files using [blesscss](http://blesscss.com/)
 
@@ -35,3 +35,5 @@ tree = bless(inputTree, options);
 * `npm test`
 
 
+[travis-badge]: https://travis-ci.org/jschilli/ember-cli-bless.svg?branch=master
+[travis-badge-url]: https://travis-ci.org/jschilli/ember-cli-bless
