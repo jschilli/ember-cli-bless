@@ -11,7 +11,9 @@ var app = new EmberApp({
     cacheBuster: true,
     compress: false,
     force: false,
-    imports: true
+    imports: true,
+    srcDir: 'assets/',
+    destDir: 'assets/'
     // log: true  }
 });
 ```
