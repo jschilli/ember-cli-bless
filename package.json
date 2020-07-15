@@ -27,7 +27,7 @@
     "ember-cli": "0.2.3",
     "ember-cli-dependency-checker": "0.0.8",
     "glob": "^5.0.3",
-    "lodash": "^3.6.0",
+    "lodash": "^4.17.19",
     "mocha": "^1.18.0",
     "mocha-jshint": "0.0.9",
     "through": "^2.3.7",
