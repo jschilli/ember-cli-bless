@@ -1,3 +1,5 @@
+It's been a minute...  No longer maintaining this so changing status to public archive...
+
 # Ember-cli-bless [![Build Status][travis-badge]][travis-badge-url]
 
 Blesses css files using [blesscss](http://blesscss.com/)
