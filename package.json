@@ -45,7 +45,7 @@
     "broccoli-merge-trees": "^0.2.1",
     "broccoli-static-compiler": "^0.2.1",
     "copy-dereference": "^1.0.0",
-    "ember-cli-htmlbars": "^0.7.5",
+    "ember-cli-htmlbars": "^1.1.0",
     "promise-map-series": "^0.2.1",
     "rsvp": "^3.0.18",
     "walk-sync": "^0.1.3",
